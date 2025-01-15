@@ -23,15 +23,15 @@ pip install -r requirements.txt
 
 - Do these steps in case you are encountering an error while running the code in VS Code:
 1. Select `Terminal` from menu bar
-![alt text](image.png)
+![alt text](images\image.png)
 2. Select `Command Prompt` from the dropdown menu here
-![alt text](image-1.png)
+![alt text](images\image-1.png)
 3. Execute main.py in terminal
-![alt text](image-2.png)
+![alt text](images\image-2.png)
 
 Note: Make sure to select correct interpreter as below:
 1. Press Ctrl+Shift+P
 2. Type `Python: Select Interpreter` and select it from list
-![alt text](image-3.png)
+![alt text](images\image-3.png)
 3. Select 'flower_turial' (i.e your conda env name) list
-![alt text](image-4.png)
+![alt text](images\image-4.png)
